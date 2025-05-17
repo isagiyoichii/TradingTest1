@@ -1,2 +1,2 @@
-kiteconnect
-Flask
+Flask==2.3.2
+kiteconnect==3.11.0
