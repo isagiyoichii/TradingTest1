@@ -1,2 +1,2 @@
 Flask==2.3.2
-kiteconnect==3.11.0
+kiteconnect==5.0.1
